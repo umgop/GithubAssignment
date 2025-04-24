@@ -1,1 +1,16 @@
-Hello everybody, my name is Umesh.
+Hello everybody, my name is Umesh. 1116  open feature.txt
+ 1117  git checkout main
+ 1118  open feature.txt
+ 1119  git checkout conflict2
+ 1120  open feature.txt
+ 1121  open feature.txt
+ 1122  git checkout main
+ 1123  open feature.txt
+ 1124  git merge conflict1
+ 1125  git pull
+ 1126  git merge conflict2
+ 1127  git pull
+ 1128  git push
+ 1129  git add .
+ 1130  git commit -m "github assignment"
+ 1131  git push
